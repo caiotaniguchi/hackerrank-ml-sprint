@@ -1,0 +1,23 @@
+To generate the prediction, put training_dataset.csv and test_dataset.csv files in the same folder 
+as the email_predictor.py script and execute the following in a terminal window:
+
+> python email_predictor.py
+
+or
+
+> python3 email_predictor.py
+
+The script will generate a prediction.csv file with the predictions in the same folder as the 
+email_predictor.py file
+
+
+Requirements
+
+Languages/
+Packages     |    Version    |  Website
+
+Python 3     |   >= 3.5.2    |  https://www.python.org/
+Numpy        |   >= 1.10.4   |  http://www.numpy.org/
+Pandas       |   >= 0.18.1   |  http://pandas.pydata.org/
+XGBoost      |   >= 0.4      |  https://xgboost.readthedocs.io/en/latest/
+scikit-learn |   >= 0.17     |  http://scikit-learn.org/stable/
