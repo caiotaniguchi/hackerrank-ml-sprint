@@ -1,4 +1,4 @@
-To generate the prediction, put training_dataset.csv and test_dataset.csv files in the same folder 
+To generate the prediction, extract training_dataset.csv and test_dataset.csv files from data.zip in the same folder 
 as the email_predictor.py script and execute the following in a terminal window:
 
 > python email_predictor.py
