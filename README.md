@@ -1,2 +1,2 @@
 # hackerrank-ml-sprint
-Code and documentation for the HackerRank Aug-Sept 2016 competition
+Code and documentation for [HackerRank's Machine Learning CodeSprint](https://www.hackerrank.com/machine-learning-codesprint) competition
