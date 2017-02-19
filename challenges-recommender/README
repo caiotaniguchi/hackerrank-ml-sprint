@@ -1,0 +1,21 @@
+To generate the prediction, put challenges.csv and submissions.csv files in the same folder 
+as the recommender.py script and execute the following in a terminal window:
+
+> python recommender.py
+
+or
+
+> python3 recommender.py
+
+The script will generate a recommendation.csv with the recommendations in the same folder 
+as the recommender.py file
+
+
+Requirements
+
+Languages/
+Packages     |    Version    |  Website
+
+Python 3     |   >= 3.5.2    |  https://www.python.org/
+Numpy        |   >= 1.10.4   |  http://www.numpy.org/
+Pandas       |   >= 0.18.1   |  http://pandas.pydata.org/
